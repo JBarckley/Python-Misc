@@ -36,7 +36,7 @@ print(odd())
 print(even())
 print(odd() + even())
 
-# Did you know mathematicians have little knowledge about such infinite sum besides irrationality?
+# Did you know mathematicians have little knowledge about this infinite sum besides irrationality?
 # Problems surrounding this sum, and the zeta function associated with its calculation are far-stretching in the world of mathematics
 # This program approximates such sum, where the error is negligible.
 # From this program I found that .601 is approximately 1/2 of the infinite sum of 1/k^3!
